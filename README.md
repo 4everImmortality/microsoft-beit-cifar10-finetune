@@ -1,4 +1,4 @@
-# This is microsoft beit-base-patch16-224 finetune model for pytorch version
+# This is microsoft beit-base-patch16-224 finetune model for pytorch version in cifar10 dataset
 aiming to compare with mindspore version, you can see it at [mindnlp](https://github.com/mindspore-lab/mindnlp/tree/master/llm/finetune) in the not far future
 | Epoch | eval_loss | eval_accuracy |
 |-------|-----------|--------------|
